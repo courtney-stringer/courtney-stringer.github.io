@@ -31,15 +31,15 @@ li {
  align-items: center;
  justify-content: space-between;
  padding: 30px;
- background-color: #7554ae;
- color: #fff;
+ background-color: #000;
+ color: #000;
 }
 .nav-links a {
- color: #f9eac2;
+ color: #7554ae;
 }
 /* LOGO */
 .logo {
-  color: #b6e2d3;
+  color: #7554ae;
  font-size: 32px;
 }
 /* NAVBAR MENU */

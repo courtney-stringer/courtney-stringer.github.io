@@ -79,7 +79,7 @@ li {
  text-align: center;
 }
 .dropdown li:hover {
- background-color: #9a9447;
+ background-color: #fff;
 }
 .works:hover .dropdown {
  display: block;

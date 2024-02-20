@@ -50,7 +50,7 @@ li {
  font-size: 18px;
 }
 .menu li:hover {
- background-color: #ef7c8e;
+ background-color: #fff;
  border-radius: 5px;
  transition: 0.3s ease;
 }

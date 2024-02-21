@@ -7,7 +7,7 @@ img {
 body {
   text-align: center;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  background: #5488A5;
+  background: #fbe29c;
   color: #fff;
 }
 /* UTILITIES */
@@ -31,31 +31,30 @@ li {
  align-items: center;
  justify-content: space-between;
  padding: 30px;
- background-color: #FBE29C;
- color: #5488A5;
+ background-color: #5dbdea;
+ color: #fff;
 }
 .nav-links a {
- color: #7554ae;
+ color: #fff;
 }
 /* LOGO */
 .logo {
-  color: #5488A5;
-  font-size: 32px;
+  color: #fff;
+ font-size: 32px;
 }
 /* NAVBAR MENU */
 .menu {
-  color: #ef7c83;
+  color: #fff;
  display: flex;
  gap: 1em;
  font-size: 18px;
 }
 .menu li:hover {
- background-color: #fff;
+ background-color: #fbe29c;
  border-radius: 5px;
  transition: 0.3s ease;
 }
 .menu li {
-  color: #ef7c8e;
+  color: #fff;
  padding: 5px 14px;
 }
-

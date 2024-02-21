@@ -32,15 +32,15 @@ li {
  justify-content: space-between;
  padding: 30px;
  background-color: #FBE29C;
- color: #BFCAD0;
+ color: #5488A5;
 }
 .nav-links a {
  color: #7554ae;
 }
 /* LOGO */
 .logo {
-  color: #7554ae;
- font-size: 32px;
+  color: #5488A5;
+  font-size: 32px;
 }
 /* NAVBAR MENU */
 .menu {
